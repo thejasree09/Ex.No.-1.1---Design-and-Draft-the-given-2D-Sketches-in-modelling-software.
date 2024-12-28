@@ -1,5 +1,5 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+# NAME:THEJA SREE G
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![Ex no 1 1 pdf](https://github.com/user-attachments/assets/c3c2cc68-99ed-469a-842b-157bd8592ec2)
 
 
 ## RESULT
